@@ -1,4 +1,4 @@
-package HeapSort.DecreaseDelete;
+package HeapDecreaseDeleteBuildHeap.DecreaseDelete;
 
 public class DecreaseDelete {
     int size;

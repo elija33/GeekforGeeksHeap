@@ -19,6 +19,10 @@ public class Extract {
         return 2 * number + 1;
     }
 
+    public int parent(int number) {
+        return number - 1 / 2;
+    }
+
     public int ExtractMin() {
         if (size <= 0) {
             return Integer.MAX_VALUE;
