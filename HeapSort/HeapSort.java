@@ -41,7 +41,7 @@ public class HeapSort {
 
     public static void printArray(int number[]) {
         for (int i = 0; i < number.length - 1; ++i) {
-            System.out.println(number[i] + " ");
+            System.out.print(number[i] + " ");
             System.out.println();
         }
     }

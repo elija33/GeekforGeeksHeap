@@ -1,6 +1,17 @@
 # GeekforGeeksHeap
 
                                 How to Binary Heap Implementation.
+
+                                Adding to Heap
+- Insert next available space.
+-trickle up
+
+                                  Removing from the Heap
+Remove the root
+Replace with the last element in the tree
+Trickle down
+    -Swap with the larges of the children
+    
 Cretea a class
   Need the size of the Heap.
   Array of the heap, because heap is represent as array
